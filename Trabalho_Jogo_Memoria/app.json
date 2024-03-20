@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Trabalho_Jogo_Memoria",
+    "slug": "Trabalho_Jogo_Memoria",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
